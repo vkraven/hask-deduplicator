@@ -1,7 +1,7 @@
 # hask-deduplicator
 Attempt to create a parallel duplicate identifier in Haskell.
 
-Note that any sizeable file size will still run out of memory.
+No longer runs out of memory!
 
 ## Usage
 ### Build
